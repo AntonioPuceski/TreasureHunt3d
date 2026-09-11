@@ -23,7 +23,7 @@ To run or modify the game, ensure you have the following:
 ### Cloning the Repository
 Clone the repository to your local directory:
 ```sh
-git clone https://github.com/Ton4ee/TresureHunt3d
+git clone https://github.com/AntonioPuceski/TreasureHunt3d
 ```
 
 ### Running the Game
